@@ -1,0 +1,3 @@
+class example {
+  exec { 'openssl': }
+}
